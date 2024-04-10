@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson 3_1</string>
+<string name="Intents" >Intents</string>
+<string name="Whom"> Whom </string>
+<string name="theme"> Theme </string>
+<string name="message_text">message text</string>
+<string name="send_button">Send</string>
+<string name="next_button">Next</string>
+</resources>
